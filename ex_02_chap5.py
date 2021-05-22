@@ -1,3 +1,6 @@
+'''Write another program that prompts for a list of numbers as above and at 
+the end prints out both the maximum and minimum of the numbers'''
+
 def main():
     list = []
     c = int(input('How many Elements To Input: '))
